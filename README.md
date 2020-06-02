@@ -3,6 +3,11 @@ Example for every gui element in OpenCV in python
 
 If you need **buttons**, **sliders**, **checkboxed\radios** in your OpenCV application, then **you** are in the right place.
 
+#### Map
+
+![prers](https://github.com/nngogol/All-GUI-in-OpenCV-python/blob/master/opencv-pres.svg)
+
+
 
 ## Usage
 
@@ -20,16 +25,6 @@ python3 main.py
 
 ## Some examples preview
 
-##### Example 2
-
-![e2](https://github.com/nngogol/async-desktop-chat/blob/master/e2.png)
-
-##### Example 3
-
-![e3](https://github.com/nngogol/async-desktop-chat/blob/master/e3.png)
-
-
-#### Map
-
-![](https://github.com/nngogol/async-desktop-chat/blob/master/opencv-pres.svg)
+![e3](https://github.com/nngogol/All-GUI-in-OpenCV-python/blob/master/e3.png)
+![e2](https://github.com/nngogol/All-GUI-in-OpenCV-python/blob/master/e2.png)
 
