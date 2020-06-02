@@ -52,7 +52,7 @@
   </font>
  </defs>
  <defs class="TextShapeIndex">
-  <g ooo:slide="id1" ooo:id-list="id3 id4 id5 id6 id7 id8 id9 id10 id11 id12 id13 id14 id15 id16 id17 id18 id19"/>
+  <g ooo:slide="id1" ooo:id-list="id3 id4 id5 id6 id7 id8 id9 id10 id11 id12 id13 id14 id15 id16 id17"/>
  </defs>
  <defs class="EmbeddedBulletChars">
   <g id="bullet-char-template-57356" transform="scale(0.00048828125,-0.00048828125)">
@@ -331,18 +331,6 @@
         <path fill="none" stroke="rgb(0,0,0)" d="M 21999,16894 C 22099,16896 22199,16898 22300,16900"/>
         <path fill="none" stroke="rgb(0,0,0)" d="M 22439,16903 C 22540,16905 22642,16906 22745,16907"/>
         <path fill="none" stroke="rgb(0,0,0)" d="M 22885,16908 C 22988,16909 23091,16909 23195,16909"/>
-       </g>
-      </g>
-      <g class="com.sun.star.drawing.ClosedBezierShape">
-       <g id="id18">
-        <rect class="BoundingBox" stroke="none" fill="none" x="36699" y="7393" width="716" height="1509"/>
-        <path fill="none" stroke="rgb(0,0,0)" d="M 36903,7482 C 36700,7876 36612,8371 36816,8747 37077,9229 37552,8444 37374,8159 L 37374,7688 37110,7394 36963,7394 36903,7482 Z"/>
-       </g>
-      </g>
-      <g class="com.sun.star.drawing.OpenBezierShape">
-       <g id="id19">
-        <rect class="BoundingBox" stroke="none" fill="none" x="28162" y="8083" width="9205" height="3"/>
-        <path fill="none" stroke="rgb(0,0,0)" d="M 28163,8084 L 30398,8084 33808,8084 36160,8084 37130,8084 37365,8084"/>
        </g>
       </g>
      </g>
