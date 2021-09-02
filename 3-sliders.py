@@ -37,6 +37,7 @@ img = np.ones((512,512,3), np.uint8)
 while True:
 	
 	img[:, :] = getslid('r', 'g', 'b', root_wind=root_wind)
+	img = cv2.cvtColor(img, cv2.COLOR_RGB2BGR)
 	cv.imshow(root_wind, img)
 	
 	code = cv.waitKey(1)
